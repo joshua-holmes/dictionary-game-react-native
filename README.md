@@ -1,1 +1,1 @@
-# Dictionary Game for React native
+# Dictionary Game for React Native
